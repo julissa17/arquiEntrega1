@@ -30,7 +30,7 @@ En el día 3, después de tener la mayoría de funcionalidades listas y preparar
 
 ## Producto final (DEMO) 
 
-[Demo del proyecto](https://isabelajs.github.io/Trivia/tree/deploy)
+[Demo del proyecto](https://isabelajs.github.io/Trivia/tree/deploy/)
 
 
 
