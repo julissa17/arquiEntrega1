@@ -10,7 +10,7 @@ Partimos por determinar un tema y la forma en que queremos el usuario interactú
 ### Prototipo de baja fidelidad 📋
 
 En primer lugar, se plasmó en papel cada borrador de lo que esperamos de nuestra creación.
-![isa](https://github.com/julissa17/arquiEntrega1/blob/master/img/isa1.jpg)
+![isa](https://github.com/julissa17/arquiEntrega1/blob/master/img/isa11.jpg)
 ![isa](https://github.com/julissa17/arquiEntrega1/blob/master/img/isa3.jpg)
 ![isa](https://github.com/julissa17/arquiEntrega1/blob/master/img/isa4.jpg)
 
