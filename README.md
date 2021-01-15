@@ -10,7 +10,10 @@ Partimos por determinar un tema y la forma en que queremos el usuario interactú
 ### Prototipo de baja fidelidad 📋
 
 En primer lugar, se plasmó en papel cada borrador de lo que esperamos de nuestra creación.
-<![isa](https://github.com/julissa17/arquiEntrega1/blob/master/img/isa1.jpg)
+![isa](https://github.com/julissa17/arquiEntrega1/blob/master/img/isa1.jpg)
+![isa](https://github.com/julissa17/arquiEntrega1/blob/master/img/isa3.jpg)
+![isa](https://github.com/julissa17/arquiEntrega1/blob/master/img/isa4.jpg)
+
 ### Hora de codear 🤓
 
 Desde el día 1 empezamos a codear de acuerdo a lo planteado en el modelo de baja complejidad. Así nos atrevimos a realizar los primeros esqueletos html y css(no definitivos) de las páginas base e iniciamos la investigación y aplicación del método prueba y error para la implementación de cada una de las funcionalidades que requería nuestro proyecto. 
