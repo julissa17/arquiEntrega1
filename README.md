@@ -1,4 +1,4 @@
-# ¿Quién quiere ingresar a Laboratoria?🚀
+# ¿Quién quiere ingresar a Laboratoria?
 
 Se trata de una divertida trivia cuyo objetivo es que aspirantes al bootcamp de laboratoria, como nosotras, puedan evaluar de forma amena pero productiva sus conocimientos básicos en las 3 categorías elegidas. Al final, esperamos que cada chica que pruebe la trivia independientemente del resultado se sienta motivada a seguir aprendiendo en este amplio mundo tecnológico. 
 
@@ -10,7 +10,9 @@ Partimos por determinar un tema y la forma en que queremos el usuario interactú
 ### Prototipo de baja fidelidad 📋
 
 En primer lugar, se plasmó en papel cada borrador de lo que esperamos de nuestra creación.
-
+<img width=400 src="./img/isa1">
+<img width=400 src="./img/isa3">
+<img width=400 src="./img/isa4">
 
 ### Hora de codear 🤓
 
