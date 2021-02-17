@@ -32,6 +32,33 @@ En el día 3, después de tener la mayoría de funcionalidades listas y preparar
 
 [Demo del proyecto](https://github.com/isabelajs/Trivia)
 
+## Objetivos de aprendizaje Julissa
+
+### UX
+
+- [x] Diseñar la aplicación pensando y entendiendo al usuario.
+- [ ] Crear prototipos para obtener feedback e iterar.
+
+### HTML y CSS
+
+- [x] Entender y reconocer por qué es importante el HTML semántico.
+- [x] Identificar y entender tipos de selectores en CSS.
+
+### DOM
+
+- [x] Entender y reconocer los selectores del DOM.
+- [x] Manejar eventos del DOM.
+- [ ] Manipular dinámicamente el DOM.
+
+### JavaScript
+
+- [x] Entender el uso de condicionales (if/else)
+- [ ] Utilizar funciones como mecanismo de control de flujo y reuso de código.
+- [x] Conocer la diferencia entre los distintos tipos de datos.
+- [x] Conocer la diferencia entre las distintas formas de declarar variables.
+- [ ] Buenas prácticas de desarrollo
+- [x] Utilizar identificadores descriptivos (Nomenclatura | Semántica).
+
 
 
 ## Autores ✒️
