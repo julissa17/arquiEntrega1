@@ -42,12 +42,12 @@ En el día 3, después de tener la mayoría de funcionalidades listas y preparar
 ### HTML y CSS
 
 - [x] Entender y reconocer por qué es importante el HTML semántico.
-- [x] Identificar y entender tipos de selectores en CSS.
+- [ ] Identificar y entender tipos de selectores en CSS.
 
 ### DOM
 
 - [x] Entender y reconocer los selectores del DOM.
-- [x] Manejar eventos del DOM.
+- [ ] Manejar eventos del DOM.
 - [ ] Manipular dinámicamente el DOM.
 
 ### JavaScript
